@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zena4L
-- 👀 I’m interested in python
+- 👀 I’m interested in Javascript and Python
 - 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on data science 
+- 💞️ I’m looking to collaborate on Projects including Data Science 
 - 📫 How to reach me zenerbogyah7@gmail.com
 
 <!---
