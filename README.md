@@ -1,7 +1,7 @@
 - email:zenerbogyah7@gmail.com
-- BE(Node(Mastery) && GoLang(Beginner))
+- BE(Node(Mastery) && Python
 -Bsc Mathematical Science
-- Fair knowledge in c++,python,R,MatLab
+- Fair knowledge in c++,R,MatLab
 
 <!---
 Zena4L/Zena4L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
