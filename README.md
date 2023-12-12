@@ -21,7 +21,7 @@ I'm open to collaboration on interesting projects. If you have an exciting oppor
 
 ## 📫 Let's Connect
 
-- **email:** [@email](zenerbogyah7@gmail.com)
+- **email:** [@zenerbogyah7@gmail.com](zenerbogyah7@gmail.com)
 
 Thanks for stopping by! Feel free to explore my repositories and don't hesitate to drop a message. Happy coding! 🚀
 
