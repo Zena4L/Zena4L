@@ -4,16 +4,14 @@ I'm a passionate Full Stack Software Engineer with a strong focus on backend dev
 
 ## 💻 Technologies & Tools
 
-- **Java:** Proficient in developing backend solutions using Java, with a strong grasp of Java 8+ features.
-- **Spring Framework:** Experienced in building RESTful APIs and microservices using Spring Boot.
-- **Node.js & Express:** Skilled in creating server-side applications with Node.js and the Express framework.
-- **TypeScript:** Adept at leveraging TypeScript to enhance the maintainability and scalability of frontend code.
-- **React.js:** Experienced in developing interactive and dynamic user interfaces using React.js.
+- **Java:**
+- **Spring Framework:** 
+- **Node.js & Express:** 
+- **TypeScript:**
+- **React.js:**
 - **Database:** Familiar with various databases, including SQL (e.g., MySQL, PostgreSQL) and NoSQL (e.g., MongoDB) databases.
 - **Version Control:** Proficient with Git for version control, ensuring efficient collaboration and code management.
 
-
-I am continuously expanding my skill set and exploring new technologies. Currently, I am diving deeper into [specific technology or skill you are learning].
 
 ## 👨‍💻 Open to Collaboration
 
